@@ -3,12 +3,10 @@ a=[1,2,3]
 b=[1,2,3]
 c=a
 print(a is c)
-print(a is c)
-print(a ==b)
+print(a==b)
 print(a==c)
 print(id(a))
 print(id(c))
-print(id(a))
 
 #assigment operator
 print(5 + 3)#addition
@@ -45,7 +43,6 @@ print(5 ^ 3)
 print(~5)        
 print(5 << 1)      
 print(5 >> 1) 
-
 
 # Membership Operators
 
